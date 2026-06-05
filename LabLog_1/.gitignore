@@ -1,0 +1,20 @@
+﻿# Build
+bin/
+obj/
+
+# Firebase credentials 
+Config/firebase-credentials.json
+
+# Rider
+.idea/
+
+# Visual Studio
+.vs/
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
