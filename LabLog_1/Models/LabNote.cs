@@ -2,6 +2,7 @@
 using Google.Cloud.Firestore;
 namespace LabLog_1.Models;
 
+// Indica que esta clase puede almacenarse como documento en Firestore
 [FirestoreData]
 public class LabNote
 {

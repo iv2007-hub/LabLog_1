@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sergi\\RiderProjects\\LabLog_1\\LabLog_1\\LabLog_1.csproj": {}
+    "C:\\Users\\cstel\\RiderProjects\\LabLog_1\\LabLog_1\\LabLog_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sergi\\RiderProjects\\LabLog_1\\LabLog_1\\LabLog_1.csproj": {
+    "C:\\Users\\cstel\\RiderProjects\\LabLog_1\\LabLog_1\\LabLog_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sergi\\RiderProjects\\LabLog_1\\LabLog_1\\LabLog_1.csproj",
+        "projectUniqueName": "C:\\Users\\cstel\\RiderProjects\\LabLog_1\\LabLog_1\\LabLog_1.csproj",
         "projectName": "LabLog_1",
-        "projectPath": "C:\\Users\\sergi\\RiderProjects\\LabLog_1\\LabLog_1\\LabLog_1.csproj",
-        "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sergi\\RiderProjects\\LabLog_1\\LabLog_1\\obj\\",
+        "projectPath": "C:\\Users\\cstel\\RiderProjects\\LabLog_1\\LabLog_1\\LabLog_1.csproj",
+        "packagesPath": "C:\\Users\\cstel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cstel\\RiderProjects\\LabLog_1\\LabLog_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sergi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\cstel\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\sergi\\.dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Users\\cstel\\.dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
