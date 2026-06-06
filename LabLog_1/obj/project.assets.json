@@ -1717,19 +1717,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cstel\\.nuget\\packages\\": {}
+    "C:\\Users\\Roy Flores\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cstel\\RiderProjects\\LabLog_1\\LabLog_1\\LabLog_1.csproj",
+      "projectUniqueName": "C:\\Users\\Roy Flores\\RiderProjects\\LabLog_1\\LabLog_1\\LabLog_1.csproj",
       "projectName": "LabLog_1",
-      "projectPath": "C:\\Users\\cstel\\RiderProjects\\LabLog_1\\LabLog_1\\LabLog_1.csproj",
-      "packagesPath": "C:\\Users\\cstel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cstel\\RiderProjects\\LabLog_1\\LabLog_1\\obj\\",
+      "projectPath": "C:\\Users\\Roy Flores\\RiderProjects\\LabLog_1\\LabLog_1\\LabLog_1.csproj",
+      "packagesPath": "C:\\Users\\Roy Flores\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Roy Flores\\RiderProjects\\LabLog_1\\LabLog_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cstel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Roy Flores\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -1803,7 +1803,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\cstel\\.dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Users\\Roy Flores\\.dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
