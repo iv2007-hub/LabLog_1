@@ -10,7 +10,6 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddSingleton<FirebaseService>();
 builder.Services.AddScoped<AuthService>();
 builder.Services.AddScoped<LabNoteService>();
-
 builder.Services.AddControllers();
 
 builder.Services.AddOpenApi(options =>

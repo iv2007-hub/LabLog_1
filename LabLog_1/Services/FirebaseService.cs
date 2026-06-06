@@ -1,7 +1,7 @@
 ﻿using Google.Cloud.Firestore;
 
 namespace LabLog_1.Services;
-
+//Credenciales
 public class FirebaseService
 {
     private readonly FirestoreDb _firestoreDb;

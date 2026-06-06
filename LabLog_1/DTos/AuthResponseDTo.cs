@@ -1,5 +1,5 @@
 ﻿namespace LabLog_1.DTos;
-
+//Authentication
 public class AuthResponseDTo
 {
     public string IdToken { get; set; } = string.Empty;
